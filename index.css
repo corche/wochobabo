@@ -1,6 +1,6 @@
 html{background-color: rgb(29, 29, 29);}
 body{margin: 0;}
 .menu{position: fixed; left: 0; right: 0; background-color: gray; color: white; font-size: 3em;}
-.t{width: 700px; color: white;}
-.t1{font-size: 2em;}
-.t1_{font-size: 1.5em;}
+.t{width: 700px; color: white; transform: translate(-50%,0); margin-left: 50%; margin-top: 300px;}
+.t1{font-size: 2em; text-align: left;}
+.t1_{font-size: 1.5em; text-align: right;}
